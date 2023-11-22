@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hi"),console.log("hi supppp from within other")})();
